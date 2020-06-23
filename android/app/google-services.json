@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "32613803148",
+    "firebase_url": "https://ecomerce-doan.firebaseio.com",
+    "project_id": "ecomerce-doan",
+    "storage_bucket": "ecomerce-doan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32613803148:android:2e23fca31776085b8387a9",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32613803148-7mmsgfafn9jda4pqhdcv3duvjemeu9hb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterapp",
+            "certificate_hash": "f4d5107631d23124ec50a8bd425097e99b94f441"
+          }
+        },
+        {
+          "client_id": "32613803148-j5lktth2u685ojjooegavdviff3vc0ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTFaTQ087GdBgc5qOUDfPEgh-sE34FEwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32613803148-j5lktth2u685ojjooegavdviff3vc0ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
